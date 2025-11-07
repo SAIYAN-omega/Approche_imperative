@@ -12,6 +12,7 @@ public class DeclarationApp
         double f = 23.0000000000D;
         char g = 'e';
         boolean h = true;
+
         String i = "bonjour";
         System.out.println(i);
 
